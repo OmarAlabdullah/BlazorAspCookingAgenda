@@ -1,0 +1,23 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  blazoraspcookingagenda.server:
+    build:
+      context: "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda"
+      dockerfile: "Server/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/BlazorAspCookingAgenda.Server.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      ASPNETCORE_STATICWEBASSETS: "/app/bin/Debug/net8.0/BlazorAspCookingAgenda.Server.staticwebassets.runtime.CT.json"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "blazoraspcookingagenda.server:dev"
+    ports: []
+    volumes:
+    - "C:\\Users\\omark\\AppData\\Roaming\\Microsoft\\UserSecrets:/home/app/.microsoft/usersecrets"
+    - "C:\\Users\\omark\\.nuget\\packages:/home/app/.nuget/packages"
+    - "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda\\Server:/app:rw"
+    - "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda:/src:rw"
+    working_dir: "/app"

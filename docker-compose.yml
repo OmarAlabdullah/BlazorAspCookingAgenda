@@ -1,11 +1,8 @@
-version: '3.8'
-
-services:
-  blazorapp:
-    image: cookingAgenda:latest
+﻿services:
+  blazoraspcookingagenda.server:
+    image: blazoraspcookingagenda.server
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: Server/Dockerfile
     ports:
-      - "8000:80"
-      - "443:443"
+      - 8081:8080

@@ -1,0 +1,12 @@
+C:\Users\omark\projects\source\BlazorAspCookingAgenda\Shared\bin\Debug\net8.0\BlazorAspCookingAgenda.Shared.deps.json
+C:\Users\omark\projects\source\BlazorAspCookingAgenda\Shared\bin\Debug\net8.0\BlazorAspCookingAgenda.Shared.dll
+C:\Users\omark\projects\source\BlazorAspCookingAgenda\Shared\bin\Debug\net8.0\BlazorAspCookingAgenda.Shared.pdb
+C:\Users\omark\projects\source\BlazorAspCookingAgenda\Shared\obj\Debug\net8.0\BlazorAspCookingAgenda.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omark\projects\source\BlazorAspCookingAgenda\Shared\obj\Debug\net8.0\BlazorAspCookingAgenda.Shared.AssemblyInfoInputs.cache
+C:\Users\omark\projects\source\BlazorAspCookingAgenda\Shared\obj\Debug\net8.0\BlazorAspCookingAgenda.Shared.AssemblyInfo.cs
+C:\Users\omark\projects\source\BlazorAspCookingAgenda\Shared\obj\Debug\net8.0\BlazorAspCookingAgenda.Shared.csproj.CoreCompileInputs.cache
+C:\Users\omark\projects\source\BlazorAspCookingAgenda\Shared\obj\Debug\net8.0\BlazorAspCookingAgenda.Shared.sourcelink.json
+C:\Users\omark\projects\source\BlazorAspCookingAgenda\Shared\obj\Debug\net8.0\BlazorAspCookingAgenda.Shared.dll
+C:\Users\omark\projects\source\BlazorAspCookingAgenda\Shared\obj\Debug\net8.0\refint\BlazorAspCookingAgenda.Shared.dll
+C:\Users\omark\projects\source\BlazorAspCookingAgenda\Shared\obj\Debug\net8.0\BlazorAspCookingAgenda.Shared.pdb
+C:\Users\omark\projects\source\BlazorAspCookingAgenda\Shared\obj\Debug\net8.0\ref\BlazorAspCookingAgenda.Shared.dll
