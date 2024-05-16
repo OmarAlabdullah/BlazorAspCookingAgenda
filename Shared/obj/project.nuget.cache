@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HLYDBov34Nx2EzuZimB3Oe0A281eb39+/rHCvr5+x/Chs2EOyTmtJLxEX07KnywAjhRsugt6+a06vZs8P2fFJQ==",
+  "dgSpecHash": "sPFwECmBIa4KbTMNRs8iZqvai3YuXJgThoyRzy6cs5SS/6QTBOvGiP8JiXgctS+ezItOkaBdHzlbcxU8gA7qrw==",
   "success": true,
-  "projectFilePath": "D:\\source\\BlazorAspCookingAgenda\\Shared\\BlazorAspCookingAgenda.Shared.csproj",
+  "projectFilePath": "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda\\Shared\\BlazorAspCookingAgenda.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

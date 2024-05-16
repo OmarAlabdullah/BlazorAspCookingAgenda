@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  blazorapp:
+    image: cookingAgenda:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:80"
+      - "443:443"

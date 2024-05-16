@@ -1,41 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\BlazorAspCookingAgenda\\Client\\BlazorAspCookingAgenda.Client.csproj": {}
+    "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda\\Client\\BlazorAspCookingAgenda.Client.csproj": {}
   },
   "projects": {
-    "D:\\source\\BlazorAspCookingAgenda\\Client\\BlazorAspCookingAgenda.Client.csproj": {
+    "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda\\Client\\BlazorAspCookingAgenda.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\BlazorAspCookingAgenda\\Client\\BlazorAspCookingAgenda.Client.csproj",
+        "projectUniqueName": "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda\\Client\\BlazorAspCookingAgenda.Client.csproj",
         "projectName": "BlazorAspCookingAgenda.Client",
-        "projectPath": "D:\\source\\BlazorAspCookingAgenda\\Client\\BlazorAspCookingAgenda.Client.csproj",
-        "packagesPath": "C:\\Users\\OmarAlAbdullah\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\BlazorAspCookingAgenda\\Client\\obj\\",
+        "projectPath": "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda\\Client\\BlazorAspCookingAgenda.Client.csproj",
+        "packagesPath": "C:\\Users\\omark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda\\Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\OmarAlAbdullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Users\\omark\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://proget.renvl.nl/nuget/NuGet/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\source\\BlazorAspCookingAgenda\\Shared\\BlazorAspCookingAgenda.Shared.csproj": {
-                "projectPath": "D:\\source\\BlazorAspCookingAgenda\\Shared\\BlazorAspCookingAgenda.Shared.csproj"
+              "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda\\Shared\\BlazorAspCookingAgenda.Shared.csproj": {
+                "projectPath": "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda\\Shared\\BlazorAspCookingAgenda.Shared.csproj"
               }
             }
           }
@@ -44,28 +38,45 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[7.0.17, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
               "target": "Package",
-              "version": "[7.0.17, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.17, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.Extensions.Http": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.WebAssembly.Pack": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -79,18 +90,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[7.0.17, 7.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\OmarAlAbdullah\\.dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -99,35 +104,29 @@
         }
       }
     },
-    "D:\\source\\BlazorAspCookingAgenda\\Shared\\BlazorAspCookingAgenda.Shared.csproj": {
+    "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda\\Shared\\BlazorAspCookingAgenda.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\BlazorAspCookingAgenda\\Shared\\BlazorAspCookingAgenda.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda\\Shared\\BlazorAspCookingAgenda.Shared.csproj",
         "projectName": "BlazorAspCookingAgenda.Shared",
-        "projectPath": "D:\\source\\BlazorAspCookingAgenda\\Shared\\BlazorAspCookingAgenda.Shared.csproj",
-        "packagesPath": "C:\\Users\\OmarAlAbdullah\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\BlazorAspCookingAgenda\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda\\Shared\\BlazorAspCookingAgenda.Shared.csproj",
+        "packagesPath": "C:\\Users\\omark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omark\\projects\\source\\BlazorAspCookingAgenda\\Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\OmarAlAbdullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Users\\omark\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://proget.renvl.nl/nuget/NuGet/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -135,11 +134,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -156,7 +160,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\OmarAlAbdullah\\.dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
