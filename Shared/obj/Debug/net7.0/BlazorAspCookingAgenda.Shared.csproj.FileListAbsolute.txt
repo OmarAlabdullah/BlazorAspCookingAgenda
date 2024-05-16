@@ -1,0 +1,11 @@
+D:\source\BlazorAspCookingAgenda\Shared\bin\Debug\net7.0\BlazorAspCookingAgenda.Shared.deps.json
+D:\source\BlazorAspCookingAgenda\Shared\bin\Debug\net7.0\BlazorAspCookingAgenda.Shared.dll
+D:\source\BlazorAspCookingAgenda\Shared\bin\Debug\net7.0\BlazorAspCookingAgenda.Shared.pdb
+D:\source\BlazorAspCookingAgenda\Shared\obj\Debug\net7.0\BlazorAspCookingAgenda.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\BlazorAspCookingAgenda\Shared\obj\Debug\net7.0\BlazorAspCookingAgenda.Shared.AssemblyInfoInputs.cache
+D:\source\BlazorAspCookingAgenda\Shared\obj\Debug\net7.0\BlazorAspCookingAgenda.Shared.AssemblyInfo.cs
+D:\source\BlazorAspCookingAgenda\Shared\obj\Debug\net7.0\BlazorAspCookingAgenda.Shared.csproj.CoreCompileInputs.cache
+D:\source\BlazorAspCookingAgenda\Shared\obj\Debug\net7.0\BlazorAspCookingAgenda.Shared.dll
+D:\source\BlazorAspCookingAgenda\Shared\obj\Debug\net7.0\refint\BlazorAspCookingAgenda.Shared.dll
+D:\source\BlazorAspCookingAgenda\Shared\obj\Debug\net7.0\BlazorAspCookingAgenda.Shared.pdb
+D:\source\BlazorAspCookingAgenda\Shared\obj\Debug\net7.0\ref\BlazorAspCookingAgenda.Shared.dll
